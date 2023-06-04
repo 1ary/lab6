@@ -1,0 +1,29 @@
+ion-item {
+    --highlight-background-focused: #ff000030;
+  }
+  
+  ion-item.invalid input {
+    border-color: red;
+  }
+  
+  ion-text {
+    display: block;
+    margin-top: 0.5rem;
+  }
+  
+  ion-text.color-danger {
+    font-size: 0.8rem;
+  }
+
+  .tab1-page ion-content {
+    --background: #f0f0f0 !important;
+  }
+  .registration-form-background {
+    --ion-background-color: rgb(233, 240, 247);
+    --ion-text-color: rgb(17, 15, 15);
+  }
+  .black-background {
+    background-color: black;
+    color: white;
+  }
+  
